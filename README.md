@@ -6,3 +6,5 @@ Original Website: https://bjpascual.com/
 Bj Pascual Social Media:
 <a href="https://twitter.com/bjpascual">Twitter</a>
 <a href="https://www.instagram.com/bjpascual/">Instagram</a>
+
+![GitHub Logo](/images/logo.png)
